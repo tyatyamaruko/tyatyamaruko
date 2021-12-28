@@ -5,7 +5,7 @@
 </p>
 
 - 🔭 I’m currently working on ...
-  - backend engineer
+  - backend engineer (raw php)
 - 🌱 I’m currently learning ...
   - Swift
   - PHP(Laravel)
